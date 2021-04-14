@@ -1,0 +1,6 @@
+{
+    "name": "my first chrome extension",
+    "version": "0.0.1",
+    "description": "This first cool extension",
+    "manifest_version": 2
+}
